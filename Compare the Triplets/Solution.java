@@ -1,6 +1,4 @@
-//Problem Link : https://www.hackerrank.com/challenges/plus-minus/problem
-
-package hackerrank;
+//Problem Link : https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 import java.util.Scanner;
 
