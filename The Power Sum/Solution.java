@@ -1,7 +1,5 @@
 //Problem Link : https://www.hackerrank.com/challenges/the-power-sum/problem
 
-package hackerrank;
-
 import java.util.Scanner;
 import static java.lang.Math.pow;
 
